@@ -57,9 +57,9 @@
 	7. 简单介绍react优势，劣势，与传统开发的区别；
 	8. react的数据流；
 	9. redux的工作流程；
-	10.	用redux如何实现一个表单提交（redux的使用）；
-	11.	简单说明react的虚拟dom；
-	12.	react如何更新ui（setState）?可以使用this.state.name = "王自力"的方式吗？
+	10. 用redux如何实现一个表单提交（redux的使用）；
+	11. 简单说明react的虚拟dom；
+	12. react如何更新ui（setState）?可以使用this.state.name = "王自力"的方式吗？
 	
  
 ### 掌门一对一（在线教育）：
